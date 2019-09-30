@@ -1,0 +1,17 @@
+{
+  "name": "com.sh-swat.usimba",
+  "version": "0.0.0",
+  "displayName": "Unity Simple MessageBus",
+  "description": "Simple MessageBus for unity game engine",
+  "unity": "2019.2",
+  "unityRelease": "5f1",
+  "keywords": [
+    "MessageBus",
+    "Usimba"
+  ],
+  "author": {
+    "name": "sh-swat",
+    "email": "shahin_ke@Hotmail.com",
+    "url": "https://github.com/SH-SWAT/Usimba"
+  }
+}

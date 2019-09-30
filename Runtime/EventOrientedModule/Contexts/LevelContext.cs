@@ -1,0 +1,7 @@
+﻿namespace SH_SWAT.Usimba.EventOrientedModule.Contexts
+{
+    public class LevelContext : Context
+    {
+        public int LevelNumber;
+    }
+}
