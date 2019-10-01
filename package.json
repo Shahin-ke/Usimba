@@ -9,6 +9,10 @@
     "MessageBus",
     "Usimba"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SH-SWAT/Usimba"
+  },
   "author": {
     "name": "sh-swat",
     "email": "shahin_ke@Hotmail.com",
